@@ -43,4 +43,4 @@ python object_tracker.py Videos/Easy.mp4 Easy
 - It will create bounding box for each object in its new position.
 - Resulting Video will be saved in Results folder.
 
-![Alt text](Results/Easy_results.AVI)
+![Alt text](https://studio.youtube.com/video/EVXMKKNcd9k/edit)
