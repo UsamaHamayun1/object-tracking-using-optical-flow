@@ -42,3 +42,5 @@ python object_tracker.py Videos/Easy.mp4 Easy
 - Computation will start and each frame will pop out for no. of features tracked in each frame.
 - It will create bounding box for each object in its new position.
 - Resulting Video will be saved in Results folder.
+
+![Alt text](Results/Easy_results.AVI)
